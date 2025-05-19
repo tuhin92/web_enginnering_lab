@@ -46,6 +46,13 @@
     text-align: center;
 }
 
+.footer {
+    background-color: #4b41d7;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
 /* Basic reset */
 * {
     margin: 0;
